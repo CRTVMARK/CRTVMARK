@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**CRTVMARK/CRTVMARK** is a TV APP.
-
+CRTVMARK/CRTVMARK** is a TV APP.
 
 - 🔭 I’m currently working on DIGITAL TELEVISION
 - 🌱 I’m currently learning about IPTV 
