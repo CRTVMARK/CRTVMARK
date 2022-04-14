@@ -1,16 +1,17 @@
 ### Hi there 👋
 
 <!--
-**CRTVMARK/CRTVMARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CRTVMARK/CRTVMARK** is a TV APP.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on DIGITAL TELEVISION
+- 🌱 I’m currently learning about IPTV 
+- 👯 I’m looking to collaborate on m3u lists. 
+- 🤔
+- 💬 Ask me about CRTV-MARK APP
+- 📫 How to reach me: m1rc1@hotmail.es 
+- 😄 https://crtvmark.video.blog/
+
+https://www.mediafire.com/file/raa82pd51zchgot/CRTVMark.apk/file
+
+https://padlet.com/m1rc1/crtvmark
